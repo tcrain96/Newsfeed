@@ -1,4 +1,4 @@
-# Python Newsfeed
+# Newsfeed
 
 [Live URL](https://immense-hamlet-02072.herokuapp.com/)
 
